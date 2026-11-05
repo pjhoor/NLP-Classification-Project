@@ -1,7 +1,6 @@
 {
-  "input_dim": 10176,
-  "hidden_dim": 64,
-  "hidden_dim2": 128,
+  "input_dim": 10178,
+  "hidden_dim": 128,
   "num_classes": 7,
   "dropout": 0.1
 }
